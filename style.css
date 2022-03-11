@@ -1,0 +1,47 @@
+.pageContainer {
+    width: 940px;
+    margin: 20px auto 0 auto;
+    padding: 20px;
+    background-color: azure;
+}
+
+.imageContainer {
+    float: right;
+    width: 620px;
+}
+
+.textContainer {
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+img {
+    width: 100%
+}
+
+div {
+    width: 250px;
+    text-align: left;
+    background-color: red;
+    margin: 0px;
+    padding: 0.01px;
+}
+
+h1 {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+} 
+
+footer {
+    background-color: black;
+    height: 25px;
+}
