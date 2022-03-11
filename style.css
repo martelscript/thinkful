@@ -41,7 +41,30 @@ h2 {
     font-size: 36px;
 } 
 
+h4 {
+    color: aqua;
+}
+
 footer {
     background-color: black;
     height: 25px;
 }
+
+a:link {
+    color: black;
+  }
+  
+  /*link after visiting */
+  a:visited {
+    color: red;
+  }
+  
+  /* link while mouse hover over */
+  a:hover {
+    color: goldenrod;
+  }
+  
+  /* link that has been selected */
+  a:active {
+    color: blue;
+  }
